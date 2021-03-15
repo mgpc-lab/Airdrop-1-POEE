@@ -19,8 +19,8 @@ Your title and name
 ----------------------
 The details of the first 100 people will be posted here.
 
-#1 Djoni Djuli,  asov****@****, 10000 MGPC, sent, Txid: 54365c0629c3f68cdb4bd99b524f0ad86abafa2c6e28d2b22d05bf5fc62cbe8b
+#1 Djoni Djuli,  asov*@*, 10000 MGPC, sent, Txid: 54365c0629c3f68cdb4bd99b524f0ad86abafa2c6e28d2b22d05bf5fc62cbe8b
 
-#2 oat.*********,  oat.*********@****, 10000 MGPC, sent, Txid: 7f34e097e83fb0e3a87f17fae7131a092457ff49bc80211536a53fd7f2d4b790
+#2 oat.*,  oat.*@*, 10000 MGPC, sent, Txid: 7f34e097e83fb0e3a87f17fae7131a092457ff49bc80211536a53fd7f2d4b790
 
-#3 Douglas ******, d****@albion.edu, 10000 MGPC, sent, Txid: c0de93b2ef76db3514cca93c330f4af142368b1839602198a630254366379eb2
+#3 Douglas *, d*@albion.edu, 10000 MGPC, sent, Txid: c0de93b2ef76db3514cca93c330f4af142368b1839602198a630254366379eb2
