@@ -3,7 +3,7 @@ Airdrop-1-POEE
 
 Airdrop by EDU Email (may we called it POEE)
 1. Edu Mail Airdrop Round 1# - (1000 people, 10000mgpc/person)
-All applicants must send an application email to my Gmail mareels.i708@gmail.com  and reply to my simple arithmetic questions. In other words, Gmail must be used to determine the true existence of the mailbox. Then you can receive the airdrop.
+All applicants must send an application email to our Email: info@magpiecoin.org  and reply to my simple arithmetic questions. In other words, Gmail must be used to determine the true existence of the mailbox. Then you can receive the airdrop.
 Due to limited working hours, only some rewards can be distributed every day.
 
 ---------------------------------
